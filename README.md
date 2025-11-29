@@ -1,38 +1,18 @@
-# Prodigy-Task1
-Train a model to generate coherent and contextually relevant text based on a given prompt. Starting with GPT-2, a transformer model developed by OpenAI, this project demonstrates how to fine-tune the model on a custom dataset to create text that mimics the style and structure of your training data.
-# Task 1 – Text Generation with GPT-2
+🚀 Overview
 
-**Circle with gradient**  
-**Blue Gradient Background**  
+ProDigy Infotech – GPT-2 Training Platform is a modern React-based web application designed to showcase a complete pipeline for training, fine-tuning, evaluating, and deploying GPT-2 for custom text generation tasks.
+This project demonstrates UI presentation, ML workflow documentation, and production-grade architecture practices.
 
-**Comillas Negras**  
-**Circle with gradient**  
-**ProDigy InfoTech**
+The application includes:
 
----
+Gradient-based animated UI
 
-## Project Overview
+Feature highlights
 
-Train a model to generate coherent and contextually relevant text based on a given prompt. Starting with **GPT-2**, a transformer model developed by OpenAI, this project demonstrates how to fine-tune the model on a custom dataset to create text that mimics the style and structure of your training data.
+Model training workflow
 
----
+Dataset specification
 
-## Features
+Evaluation metrics
 
-- Fine-tuning GPT-2 on custom datasets  
-- Generating contextually relevant text  
-- Maintaining style and structure of training data  
-- Easy-to-use training and generation scripts
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.8+
-- PyTorch
-- Transformers library by Hugging Face
-
-```bash
-pip install torch transformers
+Deployment & API guidelines
